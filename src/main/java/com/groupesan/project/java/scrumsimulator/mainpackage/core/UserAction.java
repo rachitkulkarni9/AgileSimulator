@@ -1,0 +1,12 @@
+package com.groupesan.project.java.scrumsimulator.mainpackage.core;
+
+public enum UserAction {
+    MANAGE_USER_STORES,
+    CONTROL_SPRINT_PARAMETERS,
+    POPULATE_SPRINT_BACKLOG,
+    ESTIMATE_WORK_EFFORT,
+    RESOLVE_ISSUES,
+    CONDUCT_SPIKE_ACTIVITIES,
+    FINE_TUNE_PROBABILITIES,
+    MANAGE_SIMULATION_STATE
+}
